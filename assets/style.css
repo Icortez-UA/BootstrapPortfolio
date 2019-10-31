@@ -1,3 +1,9 @@
+body {
+    background-image: url("images/prism.png") ;
+}
+.container {
+    width: 90%;
+}
 .bg-light {
     background-color: #ffffff!important;
     border-bottom: 1px solid #777777;
@@ -8,4 +14,19 @@
     padding-left: .3125rem;
     padding-right: .3125rem;
     float: left;
+}
+.myborder {
+    border: 1px solid #777777;
+}
+.contentbackground {
+    background-color: #ffffff;
+    height: 100%;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #777777;
+    color: #ffffff;
+    border-top: 3px solid #4aaaa5;
 }
