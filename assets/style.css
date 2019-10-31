@@ -1,0 +1,11 @@
+.bg-light {
+    background-color: #ffffff!important;
+    border-bottom: 1px solid #777777;
+}
+.navbar-brand {
+    background-color: #4aaaa5;
+    color: #ffffff!important;
+    padding-left: .3125rem;
+    padding-right: .3125rem;
+    float: left;
+}
