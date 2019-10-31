@@ -4,6 +4,9 @@ body {
 .container {
     width: 90%;
 }
+.rightborder{
+    border-right: .5px solid #777777;
+}
 .bg-light {
     background-color: #ffffff!important;
     border-bottom: 1px solid #777777;
@@ -14,6 +17,7 @@ body {
     padding-left: .3125rem;
     padding-right: .3125rem;
     float: left;
+    margin-right: 0;
 }
 .myborder {
     border: 1px solid #777777;
