@@ -43,6 +43,9 @@ body {
 .col-md-4:hover .textbox {
     opacity: 1;
 }
+.col-md-6:hover .textbox{
+    opacity: 1;
+}
 .footer {
     position: fixed;
     bottom: 0;
